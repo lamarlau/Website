@@ -1,0 +1,128 @@
+header {
+    font-family: 'Open Sans Condensed', sans-serif;
+  text-align: center;
+  font-size: 48px;
+  color: aqua;
+  background-color: black;
+  border-style: solid;
+  padding: 12px;
+}
+.rectangle {
+  margin: 0;
+  width: 100%;
+  padding: 24px;
+  text-align: center;
+}
+body {
+  margin: 0px;
+}
+#rectangle1 {
+  background-color: #1687a7;
+}
+#rectangle2 {
+  background-color: #709fb0;
+}
+.square {
+  display: inline-block;
+  text-align: center;
+}
+#square1 {
+  background-color: #b4aee8;
+  width: 120px;
+  padding: 100px;
+  margin-left: 180px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+#square2 {
+  background-color: #7868e6;
+  width: 120px;
+  padding: 100px;
+  margin-right: 120px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+}
+footer {
+  background-color: azure;
+  padding: 12px;
+}
+li {
+  display: inline;
+  padding: 12px;
+  color: cornflowerblue;
+}
+a {
+  text-decoration: none;
+}
+img {
+  width: 480px;
+  float: left;
+  margin-right: 24px;
+  margin-bottom: 24px;
+}
+.clear {
+  clear: both;
+}
+.icon {
+  position: fixed;
+  right: 0px;
+  width: 48px;
+  bottom: 0px;
+}
+.movement {
+  width: 100%;
+}
+p {
+  font-size: 24px;
+  font-family: 'Open Sans Condensed', sans-serif;
+  color: #161d6f;
+}
+h1, h2 {
+  font-family: 'Open Sans Condensed', sans-serif;
+    text-align: center;
+  color: #161d6f;
+}
+.wrapper {
+  width: 360px;
+  display: inline-block;
+  padding: 24px;
+  padding-left: 84px;
+  margin: 25px 5px 25px 5px;
+}
+main {
+  margin: 0 auto;
+  width: 100%;
+}
+.button {
+  display: inline-block;
+  background-color: #7868e6;
+  padding: 20px 50px;
+  border-radius: 10px;
+  text-decoration: none;
+  margin: 12px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+a.button:hover {
+  background: #bc6ff1;
+}
+a:visited {
+  color: #161d6f;
+}
+nav {
+    background-color: azure;
+  padding: 12px;
+  text-align: center;
+}
+.buttons {
+  display: flex;
+  justify-content: center;
+  margin: 24px;
+}
+.navlink {
+    font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 24px;
+}
+.accent {
+  color: #7868e6;
+  font-weight: bold;
+  font-size: 24px;
