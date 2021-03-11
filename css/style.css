@@ -28,7 +28,7 @@ body {
   text-align: center;
 }
 #square1 {
-  background-color: #b4aee8;
+  background-color: #b088f9;
   width: 240px;
   padding: 100px;
   margin-left: 24px;
@@ -104,10 +104,10 @@ main {
   font-family: 'Open Sans Condensed', sans-serif;
 }
 a.button:hover {
-  background: #bc6ff1;
+  background: #d39cf8;
 }
 nav {
-  background-color: #b4aee8;
+  background-color: #b8b5ff;
   padding: 12px;
   text-align: center;
 }
@@ -132,5 +132,10 @@ nav {
  color: #6930c3;
   }
   a:hover {
-    color: #b088f9;
+    color: #5a78f1;
+  }
+  .textoverimage {
+    position: relative;
+    color: aquamarine;
+    top: 4rem;
   }
